@@ -21,7 +21,7 @@ These are known to be available in the default repos for SuSELeap and Ubuntu.
 
 In Leap simply install ```cross-m68k-binutils```
 
-# Some Handy new links at the time of writing
+# Some handy new links at the time of writing
 https://github.com/Clownacy/clownmdemu-frontend - Super handy emulator with excellent VDP debug and works perfectly on Linux
 
 https://rasterscroll.com/mdgraphics/vdp-inner-workings/ - Excellent description of the VDP
