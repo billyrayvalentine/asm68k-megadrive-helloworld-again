@@ -32,7 +32,7 @@ cpu_entrypoint:
     * Setup the VDP registers
     jsr     init_vdp
 
-    * To use the VPD we:
+    * To use the VDP we:
     * 1. Load a colour palette to CRAM
     * 2. Load our font tiles (cells) to the beginning of VDP RAM
     * 3. Update the Plane A table in VRAM defining a tile id and palette id to display
